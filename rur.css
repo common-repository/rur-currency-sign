@@ -1,0 +1,4 @@
+@font-face { font-family: 'DNRuble'; src: url('/wp-content/plugins/rur/rur.eot'); }
+span.rur { font-family: "DNRuble"; text-transform: uppercase; // text-transform: none;}    
+span.rur span { position: absolute; overflow: hidden; width: .45em; height: 1em; margin: .2ex 0 0 -.6em; // display: none; }
+span.rur span:before { content: '\2013'; }
